@@ -1,0 +1,1 @@
+In this course project of the Udacity deep learning class, I built a convolutional neural network to classify images in the nonMNIST dataset (http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html), using TensorFlow.
